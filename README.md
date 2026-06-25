@@ -14,7 +14,7 @@ Everything is coded from scratch with numpy and matplotlib (no Gym/PyTorch),
 so the logic is easy to follow.
 
 ## How to run it
-Just open `B143_Nim_RL.ipynb` in Google Colab and run the cells from top to
+Just open `B143_Nim_RL.ipynbF` in Google Colab and run the cells from top to
 bottom. A normal CPU runtime is enough, it only takes about a minute.
 
 ## How I tested it
